@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="ROH SEUNGYU — AI SERVICE AND AGENT DEVELOPER">
+<rect width="1280" height="340" rx="16" fill="#11468C"/>
+<rect x="905" width="375" height="332" fill="#0F528C"/>
+<text x="62" y="67" fill="#F2BF80" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">BACKEND / AI / WORKFLOW</text>
+<text x="58" y="160" fill="#FFFFFF" font-family="Arial,sans-serif" font-weight="700" font-size="74" letter-spacing="-2">ROH SEUNGYU</text>
+<text x="62" y="214" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="25">AI SERVICE &amp; AGENT DEVELOPER</text>
+<text x="63" y="279" fill="#F2C4B3" font-family="Arial,sans-serif" font-size="17" letter-spacing="1">CONNECT DATA. BUILD SERVICES. VERIFY RESULTS.</text>
+<text x="953" y="89" fill="#F2BF80" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">ENGINEERING FOCUS</text>
+<text x="953" y="141" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="24">API &amp; DATA</text>
+<text x="953" y="192" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="24">AI WORKFLOWS</text>
+<text x="953" y="243" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="24">EVIDENCE &amp; VALIDATION</text>
+<path d="M953 263H1217" stroke="#0798F2" stroke-width="3"/>
+<path d="M0 336H256" stroke="#11468C" stroke-width="8"/><path d="M256 336H512" stroke="#0F528C" stroke-width="8"/><path d="M512 336H768" stroke="#0798F2" stroke-width="8"/><path d="M768 336H1024" stroke="#F2BF80" stroke-width="8"/><path d="M1024 336H1280" stroke="#F2C4B3" stroke-width="8"/>
+</svg>
